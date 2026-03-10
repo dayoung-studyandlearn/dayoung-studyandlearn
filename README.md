@@ -1,7 +1,7 @@
 # Hi! I'm Dayoung!
 
 데이터 분석을 공부하는 사람입니다!  
-조금이라도 천천히 꾸준히 가다보면 더 나은 내가 될 수 있을 거라 생각합니다!
+더 나은 내가 되어보자! 아자아자!
 
 ## Current Study
 - Python for Data analysis
