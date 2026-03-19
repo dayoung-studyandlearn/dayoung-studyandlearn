@@ -4,16 +4,16 @@
 더 나은 내가 되어보자! 아자아자!
 
 ## Current Study
+- Personal projects for Data analysis
 - Python for Data analysis
 - Statistics
-- Big Data engineer Certification
+
 
 
 
 ## Study Repositories
 - python_study
 - statistics_study
-- bigdata_engineer_cer_study
 - data_analysis_projects
 - paper_study
 
