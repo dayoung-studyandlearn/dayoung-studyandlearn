@@ -1,12 +1,13 @@
 # Hi! I'm Dayoung!
 
-데이터 분석을 공부하는 사람입니다!  
+AI와 데이터 분석 공부하는 사람입니다!  
 더 나은 내가 되어보자! 아자아자!
 
 ## Current Study
+- Vibe Coding with Claude Codes
+- General study of AI
 - Personal projects for Data analysis
 - Python for Data analysis
-- Statistics
 
 
 
@@ -16,7 +17,8 @@
 - statistics_study
 - data_analysis_projects
 - paper_study
-
+- ai_daily_notes
+- claude_code_study
 <!--
 **dayoung-studyandlearn/dayoung-studyandlearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
